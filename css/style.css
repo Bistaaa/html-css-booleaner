@@ -13,7 +13,7 @@ p{
     background-color: dodgerblue;
     height: 100px;
     overflow: hidden;
-
+    
 }
 
 #pattern{
@@ -109,3 +109,33 @@ td{
     background-color: white;
 }
 
+
+/* Articoli Suggeriti */
+
+#proposte{
+    font-weight: bold;
+}
+
+#proposta-1{
+  background-image: url(../img/monitor.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 160px;
+  width: 210px;
+}
+
+#proposta-2{
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 160px;
+    width: 210px;
+}
+
+footer > p{
+    color: white;
+    padding-top: 10px;
+    padding-left: 20px;
+    font-weight: bold;
+    font-size: 18px
+}
