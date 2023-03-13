@@ -1,0 +1,15 @@
+
+/* Banner + Logo */
+
+.banner{
+    background-color: dodgerblue;
+    height: 100px;
+    overflow: hidden;
+
+}
+
+#pattern{
+    height: 200px;
+    background-size:cover;
+    background-repeat: repeat;
+}
