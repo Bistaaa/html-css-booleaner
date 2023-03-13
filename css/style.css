@@ -13,3 +13,37 @@
     background-size:cover;
     background-repeat: repeat;
 }
+
+
+
+/* Titolo + Immagini */
+
+h1{
+    margin-bottom: 0;
+}
+
+.grey-text{
+    color: grey;
+}
+
+#autore{
+    font-size: 20px;
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+
+#data{
+    font-size: 15px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+#booleaner{
+    color: darkturquoise;
+}
+
+#descrizione-immagini{
+    font-size: 12px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
