@@ -1,4 +1,12 @@
 
+
+/* Generali */
+
+p{
+    font-size: 16px;
+}
+
+
 /* Banner + Logo */
 
 .banner{
@@ -47,3 +55,57 @@ h1{
     margin-top: 0px;
     margin-bottom: 0px;
 }
+
+
+/* Descrizione */
+
+.evidenziato{
+    background-color: yellow;
+}
+
+.elenco-puntato{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#elenco-puntato{
+    padding-left: 15px;
+}
+
+
+/* Tabella */
+
+table{
+    border-spacing: 0;
+}
+
+thead{
+    color: white;
+}
+
+#full-lorem{
+    width: 50%;
+    text-align: left;
+}
+
+th{
+    text-align: left;
+    border: 0;
+}
+
+td{
+    border: 0;
+}
+
+.sfondo-azzurro{
+    background-color: rgb(41, 168, 241);
+}
+
+.sfondo-celeste{
+    background-color: rgb(145, 224, 255);
+}
+
+.sfondo-bianco{
+    background-color: white;
+}
+
