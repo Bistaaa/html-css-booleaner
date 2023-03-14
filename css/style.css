@@ -7,19 +7,20 @@ p{
 }
 
 
+
 /* Banner + Logo */
 
-.banner{
+header{
     background-color: dodgerblue;
-    height: 100px;
-    overflow: hidden;
-    
+    background-image: url(../img/pattern.png);
+    background-size: cover;
+    background-size: 30%;
+    height: 150px;
 }
 
-#pattern{
-    height: 200px;
-    background-size:cover;
-    background-repeat: repeat;
+#logo{
+    height: 75px;
+    padding-top: 50px;
 }
 
 
